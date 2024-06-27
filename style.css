@@ -1,0 +1,10 @@
+#footer
+{
+padding-bottom: 10px;
+}
+
+canvas{
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px white;
+    border: 2px solid white;
+}
